@@ -1,0 +1,41 @@
+/* header */
+.header-root-div{
+    display:flex;
+    background-color: aquamarine;
+    height: max-content;
+}
+.logo-div{
+    width:10%;
+}
+.header-content-div{
+    width: 75%;
+    text-align: center;
+}
+.img-class{
+    width: 80px;
+}
+.heading{
+    font-size: large;
+    font-weight: bold;
+    font-family: cursive;
+}
+.date-div{
+    width:15%;
+}
+
+.root-div{
+    display:flex;
+    background-color: aliceblue;
+    width: 100%;
+    height: max-content;
+}
+.left-div{
+    width: 23%;
+}
+.link{
+    text-decoration: underline;
+    margin-top: 1rem;
+}
+.right-div{
+    width:77%;
+}
